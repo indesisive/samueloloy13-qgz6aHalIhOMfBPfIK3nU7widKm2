@@ -1,0 +1,128 @@
+{
+    "revealColor": "#87CEEB",
+    "colors": {
+      "bck": "#14080E",      
+      "bck2": "#14080E",     
+      "primary": "#14080E",  
+      "secondary": "#0f0f0f",
+      "accent": "#3880f5",
+      "text": "#333333", 
+      "shadow": "#888888" 
+    },
+    "navbar": {
+      "links": [
+        {"name": "SERVICES", "link": "#services"},
+        {"name": "TESTIMONIALS", "link": "#testimonials"},
+        {"name": "LOCATION", "link": "#location"},
+        {"name": "CONTACT", "link": "#contact"}
+      ],
+      "logoName": "Comp Name",
+      "colors": {
+        "navbarBckColor": "#00000080",
+        "text": "text-white",
+        "hoverText": " hover:text-white",
+        "logoUnderline": "#8aCEEB",
+        "minimisedBckColor": "#50514F"
+      }
+    },
+    "hero": {
+      "num": 5,
+      "wave": {
+        "col1": "#50514F",
+        "col2": "#272D2D",
+        "col3": "#87CEEB",
+        "col4": "#B0C4DE",
+        "col5": "#14080E"
+      },
+      "colors": {
+        "mainBck": "ffff00",
+        "waveBck": "#00ff00",
+        "text": "text-white",
+        "titleGradientStart": "from-red-600",
+        "titleGradientEnd": "to-orange-500"
+      },
+      "fancyTitleLeft": true,
+      "bigTitle": "Bigger Title",
+      "smallMottoSlogan": "Smaller Motto or Slogan Or Info<br/>More Space Below if needed",
+      "phoneNumber": "07000 000000"
+    },
+    "services": {
+      "part1": {
+        "header": "Part 1",
+        "color": "#ff000080",
+        "list": [
+          {
+            "do": "We can do this"
+          },
+          {
+            "do": "We can also do this"
+          },
+          {
+            "do": "And we can do this"
+          }     
+        ]
+      },
+      "part2": {
+        "header": "Part 2",
+        "color": "#00ff0080",
+        "list": [
+          {
+            "do": "We can do this"
+          },
+          {
+            "do": "We can also do this"
+          },
+          {
+            "do": "And we can do this"
+          }     
+        ]
+      },
+      "part3": {
+        "header": "Finally",
+        "color": "#0000ff80",
+        "list": [
+          {
+            "do": "We can do this"
+          },
+          {
+            "do": "We can also do this"
+          },
+          {
+            "do": "And we can do this"
+          }     
+        ]
+      }
+    },
+    "testimonials": {
+      "feedback": [
+        {
+        "main": "I am extremely satisfied with the service I received. The attention to detail and professionalism exceeded my expectations. The staff was friendly and efficient, making the entire experience enjoyable. I would highly recommend this service to others.",
+        "name": "Emily Thompson",
+        "subName": "Customer"
+        },      
+        {
+        "main": "The service provided was exceptional. The team went above and beyond to meet my needs and address any concerns I had. The quality of their work is top-notch, and the results speak for themselves. I'm grateful for such a positive experience.",
+        "name": "Dr. Jonathan Rodriguez",
+        "subName": "Professional"
+        },
+        {
+        "main": "I recently used this service, and I must say it was a game-changer. The efficiency, coupled with the friendly and knowledgeable staff, made the entire process seamless. I appreciate the dedication to customer satisfaction and will definitely be a repeat customer.",
+        "name": "Sarah Johnson",
+        "subName": "Client"
+        }
+      ],
+      "cardBck": "#f0f0f0bb",
+      "cardText": "#000000",
+      "mainText": "#ffffff",
+      "mainTitle": "What our customers have to say:",
+      "subTitle": "Don't believe us? Hear from others.",
+      "bgColor": "#1f2021"
+    },
+    "location": {
+      "embedIframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4948503.216904648!2d-7.608814538433081!3d52.727476438935646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d0a98a6c1ed5df%3A0xf4e19525332d8ea8!2sEngland!5e0!3m2!1sen!2suk!4v1703257425592!5m2!1sen!2suk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "title": "Come Find Us!",
+      "subTitle": "Get directions to the best service around",
+      "bgColor": "#0a0a0a",
+      "locaShadowCol": "#2c6fbb"
+    }
+  }  
