@@ -1,5 +1,5 @@
 {
-  "revealColor": "#808900",
+  "revealColor": "#000000",
   "colors": {
     "bck": "#14080E",
     "bck2": "#14080E",
@@ -30,7 +30,7 @@
     ],
     "logoName": "Comp Name",
     "colors": {
-      "navbarBckColor": "#00000080",
+      "navbarBckColor": "#fb9e00",
       "text": "text-white",
       "hoverText": " hover:text-white",
       "logoUnderline": "#8aCEEB",
@@ -91,7 +91,7 @@
     },
     "part3": {
       "header": "Finally",
-      "color": "#0000ff80",
+      "color": "#ab149e",
       "list": [
         {
           "do": "We can do this"
