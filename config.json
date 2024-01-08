@@ -4,7 +4,7 @@
     "bck": "#14080E",
     "bck2": "#14080E",
     "primary": "#14080E",
-    "secondary": "#e27300",
+    "secondary": "#16a5a5",
     "accent": "#3880f5",
     "text": "#ffffff",
     "shadow": "#000000"
@@ -61,7 +61,7 @@
   "services": {
     "part1": {
       "header": "Part 1",
-      "color": "#000000",
+      "color": "#ff0001",
       "list": [
         {
           "do": "We can do this"
@@ -76,7 +76,7 @@
     },
     "part2": {
       "header": "Part 2",
-      "color": "#000000",
+      "color": "#0c00ff",
       "list": [
         {
           "do": "We can do this"
