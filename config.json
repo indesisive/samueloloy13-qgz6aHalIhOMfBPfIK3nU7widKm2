@@ -4,10 +4,10 @@
     "bck": "#14080E",
     "bck2": "#14080E",
     "primary": "#14080E",
-    "secondary": "#0f0f0f",
+    "secondary": "#e27300",
     "accent": "#3880f5",
-    "text": "#333333",
-    "shadow": "#888888"
+    "text": "#ffffff",
+    "shadow": "#cccccc"
   },
   "navbar": {
     "links": [
@@ -40,11 +40,11 @@
   "hero": {
     "num": 5,
     "wave": {
-      "col1": "#50514F",
-      "col2": "#272D2D",
-      "col3": "#87CEEB",
-      "col4": "#B0C4DE",
-      "col5": "#14080E"
+      "col1": "#fb9e00",
+      "col2": "#fcc400",
+      "col3": "#fe9200",
+      "col4": "#c45100",
+      "col5": "#9f0500"
     },
     "colors": {
       "mainBck": "ffff00",
