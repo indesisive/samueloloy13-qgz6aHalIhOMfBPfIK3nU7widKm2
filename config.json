@@ -61,7 +61,7 @@
   "services": {
     "part1": {
       "header": "Part 1",
-      "color": "#ff000080",
+      "color": "#000000",
       "list": [
         {
           "do": "We can do this"
@@ -76,7 +76,7 @@
     },
     "part2": {
       "header": "Part 2",
-      "color": "#00ff0080",
+      "color": "#000000",
       "list": [
         {
           "do": "We can do this"
@@ -91,7 +91,7 @@
     },
     "part3": {
       "header": "Finally",
-      "color": "#ab149e",
+      "color": "#000000",
       "list": [
         {
           "do": "We can do this"
