@@ -30,7 +30,7 @@
     ],
     "logoName": "CompNamee",
     "colors": {
-      "navbarBckColor": "#fb9e00",
+      "navbarBckColor": "#b3b3b3",
       "text": "text-white",
       "hoverText": " hover:text-white",
       "logoUnderline": "#8aCEEB",
@@ -54,7 +54,7 @@
       "titleGradientEnd": "to-orange-500"
     },
     "fancyTitleLeft": true,
-    "bigTitle": "Bigger T",
+    "bigTitle": "Bigger Title",
     "smallMottoSlogan": "Smaller Motto or Slogan Or Info<br/>More Space Below if needed",
     "phoneNumber": "07000 000000"
   },
