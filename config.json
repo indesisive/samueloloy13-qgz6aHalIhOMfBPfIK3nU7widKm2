@@ -7,7 +7,7 @@
     "secondary": "#e27300",
     "accent": "#3880f5",
     "text": "#ffffff",
-    "shadow": "#cccccc"
+    "shadow": "#000000"
   },
   "navbar": {
     "links": [
@@ -28,7 +28,7 @@
         "link": "#contact"
       }
     ],
-    "logoName": "Comp Nam",
+    "logoName": "CompNamee",
     "colors": {
       "navbarBckColor": "#fb9e00",
       "text": "text-white",
