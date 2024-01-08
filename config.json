@@ -4,7 +4,7 @@
     "bck": "#14080E",
     "bck2": "#14080E",
     "primary": "#14080E",
-    "secondary": "#16a5a5",
+    "secondary": "#22d3d3",
     "accent": "#bd10e0",
     "text": "#ffffff",
     "shadow": "#000000"
@@ -65,18 +65,6 @@
       "list": [
         {
           "do": "We can do this"
-        },
-        {
-          "do": "We can also do this"
-        },
-        {
-          "do": "And we can do this"
-        },
-        {
-          "do": "And we can do this"
-        },
-        {
-          "do": "And we can do this"
         }
       ]
     },
