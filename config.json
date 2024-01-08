@@ -1,5 +1,5 @@
 {
-  "revealColor": "#d33115",
+  "revealColor": "#ffffff",
   "colors": {
     "bck": "#14080E",
     "bck2": "#14080E",
@@ -28,7 +28,7 @@
         "link": "#contact"
       }
     ],
-    "logoName": "Comp Name",
+    "logoName": "Comp Nam",
     "colors": {
       "navbarBckColor": "#fb9e00",
       "text": "text-white",
@@ -54,7 +54,7 @@
       "titleGradientEnd": "to-orange-500"
     },
     "fancyTitleLeft": true,
-    "bigTitle": "Bigger Title",
+    "bigTitle": "Bigger T",
     "smallMottoSlogan": "Smaller Motto or Slogan Or Info<br/>More Space Below if needed",
     "phoneNumber": "07000 000000"
   },
