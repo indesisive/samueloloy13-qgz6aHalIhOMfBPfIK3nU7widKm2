@@ -24,17 +24,13 @@
         "link": "#location"
       },
       {
-        "name": "CONTACT",
-        "link": "#contact"
-      },
-      {
-        "name": "CONTACT",
-        "link": "#contact"
+        "name": "LOCATION",
+        "link": "#location"
       }
     ],
     "logoName": "CompNamee",
     "colors": {
-      "navbarBckColor": "#b3b3b3",
+      "navbarBckColor": "#eb0000",
       "text": "text-white",
       "hoverText": " hover:text-white",
       "logoUnderline": "#8aCEEB",
@@ -72,6 +68,12 @@
         },
         {
           "do": "We can also do this"
+        },
+        {
+          "do": "And we can do this"
+        },
+        {
+          "do": "And we can do this"
         },
         {
           "do": "And we can do this"
