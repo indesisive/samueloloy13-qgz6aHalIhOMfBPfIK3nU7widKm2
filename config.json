@@ -3,9 +3,9 @@
   "colors": {
     "bck": "#14080E",
     "bck2": "#14080E",
-    "primary": "#14080E",
+    "primary": "#9c1056",
     "secondary": "#22d3d3",
-    "accent": "#bd10e0",
+    "accent": "#4d0c5a",
     "text": "#ffffff",
     "shadow": "#000000"
   },
@@ -41,7 +41,7 @@
     "num": 5,
     "wave": {
       "col1": "#ab149e",
-      "col2": "#fda1ff",
+      "col2": "#000000",
       "col3": "#fa28ff",
       "col4": "#fa28ff",
       "col5": "#9f0500"
