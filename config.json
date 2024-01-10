@@ -12,7 +12,7 @@
   "navbar": {
     "links": [
       {
-        "name": "SERVICES",
+        "name": "cribbb",
         "link": "#services"
       },
       {
@@ -28,7 +28,7 @@
         "link": "#location"
       }
     ],
-    "logoName": "CompNamee",
+    "logoName": "OblOck",
     "colors": {
       "navbarBckColor": "#eb0000",
       "text": "text-white",
