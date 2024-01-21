@@ -30,7 +30,7 @@
     ],
     "logoName": "OblOck",
     "colors": {
-      "navbarBckColor": "#eb0000",
+      "navbarBckColor": "#000000",
       "text": "text-white",
       "hoverText": " hover:text-white",
       "logoUnderline": "#8aCEEB",
