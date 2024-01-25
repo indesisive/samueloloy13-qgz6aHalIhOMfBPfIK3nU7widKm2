@@ -22,10 +22,6 @@
       {
         "name": "LOCATION",
         "link": "#location"
-      },
-      {
-        "name": "LOCATIO",
-        "link": "#location"
       }
     ],
     "logoName": "Geese",
@@ -60,7 +56,7 @@
   },
   "services": {
     "part1": {
-      "header": "But also this RAHHHHHHHHHH",
+      "header": "But also this\n RAHHHHHHHHH",
       "color": "#ff0001",
       "list": [
         {
@@ -91,10 +87,13 @@
       "color": "#7ed321",
       "list": [
         {
-          "do": "We can do this"
+          "do": "We can do this\nhhhh"
         },
         {
           "do": "We can also do this"
+        },
+        {
+          "do": "And we can do this"
         },
         {
           "do": "And we can do this"
