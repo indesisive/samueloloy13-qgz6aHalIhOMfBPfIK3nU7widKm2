@@ -26,6 +26,14 @@
       {
         "name": "LOCATION",
         "link": "#location"
+      },
+      {
+        "name": "LOCATION",
+        "link": "#location"
+      },
+      {
+        "name": "LOCATION",
+        "link": "#location"
       }
     ],
     "logoName": "Geese",
@@ -65,6 +73,18 @@
       "list": [
         {
           "do": "gsgsgsgsgsgsgsgs"
+        },
+        {
+          "do": "This gis what we can do"
+        },
+        {
+          "do": "This is what we can do"
+        },
+        {
+          "do": "This is what we can do"
+        },
+        {
+          "do": "This is what we can do"
         },
         {
           "do": "This is what we can do"
